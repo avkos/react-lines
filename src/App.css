@@ -1,0 +1,39 @@
+.text-center {
+    text-align: center;
+}
+
+.col-fl {
+    width: 50%;
+    float: left;
+}
+
+.col {
+    width: 50%;
+    display: inline-block;
+}
+
+.main-container {
+    border: 1px solid #dedede;
+    width: 302px;
+}
+
+.btn-container {
+    border-top: 1px solid #dedede;
+}
+
+.btn {
+    background: #fff;
+    padding: 20px;
+    min-width: 50px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+.total {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.line {
+    display: inline-block;
+    cursor: pointer;
+}
